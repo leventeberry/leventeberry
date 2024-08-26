@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on: A personal project 🤫
-- 🌱 I’m currently learning: Java | JUnit | Spring | GraphQL | Maven | Gradle | TypeScript | C#
-- 🤔 I’m looking for help with AWS
+- 🌱 I’m currently learning: Java | JUnit | Spring | GraphQL | Maven | Gradle | TypeScript | C# | AWS
 - 📫 How to reach me: berrylevente@hotmail.com
 - ⚡ My Stats:
 
