@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on: A personal project 🤫
-- 🌱 I’m currently learning: Java | JUnit | Spring | GraphQL | Maven | Gradle | TypeScript | C# | AWS
+- 🌱 I’m currently learning: Python| TypeScript | Terraform | AWS
 - 📫 How to reach me: berrylevente@hotmail.com
 - ⚡ My Stats:
 
